@@ -86,7 +86,7 @@ const arslan = {
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=volf52)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=volf52)
 
 <div>
 <a href="https://github.com/volf52/volf52">
