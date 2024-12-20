@@ -1,8 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/volf52/volf52/main/name.svg" alt="Muhammad Arslan" />
 </h1>
+
 <!-- <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Muhammad Arslan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> -->
-[![Linkedin: rslnkrmt2552](https://img.shields.io/badge/-rslnkrmt2552-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rslnkrmt2552/)](https://www.linkedin.com/in/rslnkrmt2552/)
+
+![Linkedin: rslnkrmt2552](https://img.shields.io/badge/-rslnkrmt2552-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rslnkrmt2552/)
 ![GitHub followers](https://img.shields.io/github/followers/volf52?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
