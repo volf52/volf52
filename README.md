@@ -7,10 +7,8 @@
 [![Linkedin: rslnkrmt2552](https://img.shields.io/badge/-rslnkrmt2552-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rslnkrmt2552/)](https://www.linkedin.com/in/rslnkrmt2552/)
 ![GitHub followers](https://img.shields.io/github/followers/volf52?label=Follow&style=social)
 
-<p>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arslan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=volf52&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-  </a>
+<p align="center">
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arslan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=volf52&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
