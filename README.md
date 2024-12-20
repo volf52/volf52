@@ -7,6 +7,12 @@
 [![Linkedin: rslnkrmt2552](https://img.shields.io/badge/-rslnkrmt2552-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rslnkrmt2552/)](https://www.linkedin.com/in/rslnkrmt2552/)
 ![GitHub followers](https://img.shields.io/github/followers/volf52?label=Follow&style=social)
 
+<p>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arslan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=volf52&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+  </a>
+</p>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 
 ```javascript
@@ -85,13 +91,6 @@ const arslan = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
 
 ## GitHub Stats
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arslan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=volf52&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
 
 <div>
 <a href="https://github.com/volf52/volf52">
