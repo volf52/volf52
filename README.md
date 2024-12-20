@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/volf52/volf52/main/name.svg" alt="Muhammad Arslan" />
 </h1>
 <!-- <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Muhammad Arslan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> -->
-
 [![Linkedin: rslnkrmt2552](https://img.shields.io/badge/-rslnkrmt2552-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rslnkrmt2552/)](https://www.linkedin.com/in/rslnkrmt2552/)
 ![GitHub followers](https://img.shields.io/github/followers/volf52?label=Follow&style=social)
 
@@ -10,10 +9,20 @@
 
 ```javascript
 const arslan = {
-  pronouns: "He" | "Him",
   code: ["Python", "TypeScript", "Javascript", "Rust", "Go", "Java", "C#"],
   askMeAbout: ["machine learning", "web dev", "dev ops", "UI/UX", "sys admin"],
   technologies: {
+    ml: [
+      "Pytorch",
+      "Tensorflow",
+      "Scikitlearn",
+      "Pandas",
+      "Polars",
+      "Numba",
+      "Numpy",
+      "Cupy",
+      "Dask",
+    ],
     frontEnd: {
       js: ["React", "Next.js", "Svelte/Sveltekit"],
       css: ["Tailwind"],
@@ -29,7 +38,7 @@ const arslan = {
       aws: ["AWS Beanstalk", "EC2", "S3", "RDS"],
       gcp: ["App Engine", "Compute Engine", "GKE", "GCS"],
     },
-    databases: ["PostgreSQL", "MongoDB", "SQLite", "redis"],
+    databases: ["PostgreSQL", "SQLite", "redis", "MongoDB"],
     misc: ["Socket.IO", "REST APIs", "WebSockets"],
   },
 };
@@ -50,13 +59,16 @@ const arslan = {
 
 ## GitHub Stats
 
+<div>
 <a href="https://github.com/volf52/volf52">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volf52&hide=html,css&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Arslan's GitHub Stats" />
 </a>
-
-<a href="https://github.com/volf52/volf52">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=volf52&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Arslan's GitHub Stats" />
-</a>
+</div>
+<div>
+    <a href="https://github.com/volf52/volf52">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=volf52&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Arslan's GitHub Stats" />
+    </a>
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -79,4 +91,3 @@ const arslan = {
 <a href="https://github.com/carbonteq/jwt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carbonteq&repo=jwt&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="jwt" />
 </a>
-````
